@@ -1,4 +1,3 @@
-import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { ProgressProvider } from './contexts/ProgressContext'; // Import the provider
 import HomePage from './components/HomePage';
